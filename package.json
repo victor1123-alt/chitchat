@@ -3,5 +3,24 @@
     "express": "^5.3.0",
     "json-server": "^1.0.0-beta.15",
     "socket.io": "^4.8.4"
-  }
+  },
+  "name": "chitchat-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eliana2219/chatapp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eliana2219/chatapp/issues"
+  },
+  "homepage": "https://github.com/eliana2219/chatapp#readme"
 }
